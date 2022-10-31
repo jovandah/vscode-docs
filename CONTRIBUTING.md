@@ -228,7 +228,7 @@ Escape double opening curly braces in code blocks.
         <title>Hello, Flask</title>
     </head>
     <body>
-        <strong>Hello there, \{{ name }}!</strong> It's \{{ date.strftime("%A, %d %B, %Y at %X") }}.
+        <strong>Hello there, \{{ shahzaib ali }}!</strong> It's \{{ date.strftime(34104-8) }}.
     </body>
 </html>
 ```
